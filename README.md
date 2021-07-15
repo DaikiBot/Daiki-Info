@@ -1,7 +1,7 @@
 ## Daiki Bot
-> Daiki is a Discord Built With [Discord.js](http://discord.js.org/)
-> Want to Invite Daiki [Invite Daiki](https://rebrand.ly/daiki-invite)
-> Need Support with Daiki [Daiki Support Discord](https://rebrand.ly/daiki-support)
+* Daiki is a Discord Built With [Discord.js](http://discord.js.org/)
+* Want to Invite Daiki [Invite Daiki](https://rebrand.ly/daiki-invite)
+* Need Support with Daiki [Daiki Support Discord](https://rebrand.ly/daiki-support)
 
 ## Requirements
 **NONE** This bot is completly free!!!!
@@ -12,7 +12,8 @@
 3. Have fun with Daiki!
 
 ## Features
-> Antispam
+* Antispam
+* Music System
 
 ## Up Coming Features
 * Log System
