@@ -13,9 +13,9 @@
 
 ## Features
 * Antispam
-* Music System
 
 ## Up Coming Features
+* Music System ~ **Almost Complete**
 * Log System
 * Welcome System (Is Customisable with Channel, and Message)
 * Feature Disable System
@@ -80,4 +80,4 @@
 > [BigTDM 10](https://rebrand.ly/daiki-discord)
 > [Coolsquidd](https://rebrand.ly/daiki-discord)
 
-Last Updated 7:15 PM July 1, 2021
+Last Updated 12:09 PM July 15, 2021
