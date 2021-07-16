@@ -13,9 +13,9 @@
 
 ## Features
 * Antispam
+* Music System
 
 ## Up Coming Features
-* Music System ~ **Almost Complete**
 * Log System
 * Welcome System (Is Customisable with Channel, and Message)
 * Feature Disable System
