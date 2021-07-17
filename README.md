@@ -25,6 +25,8 @@
 
 ## Current Commands
 > Music
+* `afk` ~ Makes bot stay in channel 24/7 | **COMING SOON** |
+* `playlist` ~ Add a youtube playlist to queue | **COMING SOON** |
 * `connect` ~ Connects bot to your voice channel
 * `disconnect` ~ Disconnects bot from your voice channel
 * `loop` ~ Loop current song
