@@ -58,10 +58,14 @@
 > Moderation
 * `addrole <Mention User> <Mention Role>` ~ Adds Mentioned role to user
 * `clear <1-99>` ~ Clears up to 99 messages
+* `clear-strikes <Mention User>` ~ Clears users strikes
 * `clear-warns <Mention User>` ~ Clears All Mention Users Warnings 
 * `mute <Mention User>` ~ Mutes Mentioned Member
 * `removerole <Mention User> <Mention Role>` ~ Removes Mentioned role from user
+* `remove-strikes <Mention User> <Strike Number>` ~ Removes number strike from user 
 * `remove-warn <Mention User> <Warning Number>` ~ Remove Numbered Warning from user
+* `strike <Mention User> <Expire Date> <Reason>` ~ Strikes user
+* `strikes <Mention User>` ~ Shows users strikes
 * `unmute <Mention User>` ~ Unmutes Mentioned role
 * `warn <Mention User>` ~ Give Member Warning
 * `warns <Mention User>` ~ Shows Mentioned Users Warnings
