@@ -1,3 +1,4 @@
+[![Discord Bots](https://top.gg/api/widget/839287174482362438.svg)](https://top.gg/bot/839287174482362438)
 ## Daiki Bot
 * Daiki is a Discord Built With [Discord.js](http://discord.js.org/)
 * Want to Invite Daiki [Invite Daiki](https://rebrand.ly/daiki-invite)
