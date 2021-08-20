@@ -18,6 +18,7 @@
 
 ## Troubleshooting
 * Daiki not responding to a command? @Daiki and if it does not respond make sure Daiki has correct [permissions](https://github.com/DaikiBot/Daiki-Info/blob/main/permissions.md).
+* Daiki giving a error? Contact Support by messaging in support on [Daiki's support server](https://rebrand.ly/daiki/discord) or message BigTDM 10#1362 on discord dms.
 
 ## Key Symbols
 * <> = required [] = optional
