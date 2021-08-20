@@ -15,9 +15,25 @@
 ## Features
 * Antispam
 * Music System
+> Music is currently undergoing construction and is being remade due to disord updates and music going out of date
+
+## Upcoming Versions - Change Logs
+
+> Version 8
+* Website - Invite Bot Feature, Log In to Discord, Server Configuration Options
+* Bot Rebuild - New Commands (More info coming soon!), Music System, Connects with website / dashboard
+* Dashboard - Customize Prefix, Default Role / Auto Role **WARNING LIMIT 1**, Log Channel, Member Log Channel
+
+> Version 9 Sneak Peek
+* Music - Set DJ Role, Set Music Voice Channel, Set Text Channel, Reaction Buttons (Possibly may come out in v10)
+* Dashboard - Music Server Configuration
+* Website - List Commands, Feature List, Contact Info, Support Info, top.gg(https://top.gg/839287174482362438/vote) vote, Main top.gg(https://top.gg/839287174482362438) page
+
+> Version 10
+** No Info available **
 
 ## Up Coming Features
-* Log System
+* Log system undergoing updating and fixing due to discord updates and bot going out of date
 * Welcome System (Is Customisable with Channel, and Message)
 * Feature Disable System
 * Leveling System
@@ -26,27 +42,11 @@
 
 ## Current Commands
 > Music
-* `afk` ~ Makes bot stay in channel 24/7 | **COMING SOON** |
-* `playlist` ~ Add a youtube playlist to queue | **COMING SOON** |
-* `connect` ~ Connects bot to your voice channel
-* `disconnect` ~ Disconnects bot from your voice channel
-* `loop` ~ Loop current song
-* `lyrics` ~ Looks lyrics of current playing song
-* `np` ~ Shows current playing song
-* `pause` ~ Pause's music
-* `play` ~ Plays song
-* `queue` ~ Shows all songs coming up
-* `remove` ~ Removes song
-* `resume` ~ Resumes paused music
-* `shuffle` ~ shuffles songs inside of queue
-* `skip` ~ skip's to next song
-* `skipto` ~ skips to numbered song
-* `stop` ~ stops music
-* `volume` ~ Change Bot Volume
+* Music Is Currently Undergoing Construction and is being remade due to discord updates and music going out of date
 
 > Fun
 * Game - `Hangman <Channel> <Word | Words>`
-* Reddit - `meme`
+* Reddit - `meme` `dankmeme`
 * Game - `tictactoe <Mention User>`
 * Game - `trivia`
 
