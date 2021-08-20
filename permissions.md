@@ -1,4 +1,4 @@
-## Required Permissions to invite Daiki
+## Required Permissions to Use Daiki in your server
 * If you would like to invite Daiki to your server, you need to have `Manage Permissions` inside of the server you would like to add Daiki to.
 
 ## Permissions Daiki Needs
