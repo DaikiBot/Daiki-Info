@@ -30,4 +30,4 @@
 * Use Voice Activity
 * Priority Speaker
 
-* **Please make sure Daiki has all of these permissions for Daiki to be able to function properly to achieve commands and features**
+## **Please make sure Daiki has all of these permissions for Daiki to be able to function properly to achieve commands and features**
