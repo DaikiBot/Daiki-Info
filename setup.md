@@ -1,5 +1,5 @@
 [![Discord Bots](https://top.gg/api/widget/status/839287174482362438.svg)](https://top.gg/bot/839287174482362438)
-[![Discord Bots](https://top.gg/api/widget/upvotes/839287174482362438.svg)](https://top.gg/bot/839287174482362438)
+[![Discord Bots](https://top.gg/api/widget/upvotes/839287174482362438.svg)](https://top.gg/bot/839287174482362438/vote)
 
 ## Requirements
 **NONE** This bot is completly free!!!!
