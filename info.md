@@ -87,4 +87,4 @@
 > [BigTDM 10](https://rebrand.ly/daiki-discord)
 > [Coolsquidd](https://rebrand.ly/daiki-discord)
 
-Last Updated 12:09 PM July 15, 2021
+Last Updated 11:29 PM August 21st, 2021
