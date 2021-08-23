@@ -14,7 +14,7 @@
 * 2: Use `!prefix <preferred prefix>` to set your prefix. **You are not required to do this step** 
 * 3: Make sure your prefix is correct by using the `help` command.
 * 4: Double check that Daiki has correct permissions. Click here to see the permissions Daiki Needs [Permissions](https://github.com/DaikiBot/Daiki-Info/blob/main/permissions.md)
-* 5. Your all set to use Daiki.
+* 5: Your all set to use Daiki.
 
 ## Troubleshooting
 * Daiki not responding to a command? @Daiki and if it does not respond make sure Daiki has correct [permissions](https://github.com/DaikiBot/Daiki-Info/blob/main/permissions.md).
